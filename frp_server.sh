@@ -1,2 +1,2 @@
 #!/bin/sh
-/var/frps -c conf/frps.ini
+/var/frp/frps -c /var/frp/conf/frps.ini
