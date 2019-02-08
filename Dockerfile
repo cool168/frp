@@ -18,3 +18,5 @@ ADD frpc.ini /var/frp/conf/frpc.ini
 RUN chmod +x /var/frp/*.sh
 WORKDIR /var/frp
 CMD [/var/frp/frp.sh]
+
+
